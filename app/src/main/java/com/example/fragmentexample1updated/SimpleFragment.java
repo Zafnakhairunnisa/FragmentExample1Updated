@@ -87,6 +87,7 @@ public class SimpleFragment extends Fragment {
                 }
             }
         });
+
     }
 
     @Override
